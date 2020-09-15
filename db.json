@@ -1,0 +1,74 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"Rubik's Cube",
+      "description":"This Is A Very Usefull Toy For Develope Brain",
+      "imageUrl": "https://image.made-in-china.com/202f0j00WgnUZkqASzcw/Square-Cube-Children-s-Puzzle-Magic-Cubes-DIY-Educational-Toys-for-Kids.jpg",
+      "price":350
+
+    },
+    {
+      "id":2,
+      "name":"Car",
+      "description":"It Is a remote control toy",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSch89fYBryolISUuub5FLcMHvHP2_ZoUR4wQ&usqp=CAU",   
+        "price":950
+
+    },
+    {
+      "id":3,
+      "name":"Bike",
+      "description":"This is a toy which works on cell",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVJtP9SVQVeEttLQ_VL7-obTZQ5tJkW--8UQ&usqp=CAU",
+      "price":650
+
+    },
+    {
+      "id":4,
+      "name":"Funny Duck",
+      "description":"This is a funny Musical Duck",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71FRzfbl10L._SL1500_.jpg",
+      "price":350
+
+    },
+    {
+      "id":5,
+      "name":"Teddy",
+      "description":"This is a soft-Toy",
+      "imageUrl": "https://t.jwwb.nl/9DuV7WmuQnU7sLxtOxYmVH7wMqw=/fit-in/540x540/filters:no_upscale():quality(40)/f.jwwb.nl%2Fpublic%2Fh%2Fr%2Fo%2Ftemp-uwynsnwyodxychrdcjtv%2Fteddybeer-met-een-bloemmotief-15cm-n160.jpg",
+      "price":250
+
+    },
+    {
+      "id":6,
+      "name":"Puzzle",
+      "description":"This Is A Very Usefull Toy For Develope Logic",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtc_TXlU8NC0yFmFlW-wRf3AmYvXWCku8Wzw&usqp=CAU",
+      "price":250
+
+    }
+
+   
+
+  ],
+  "cart":[],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
