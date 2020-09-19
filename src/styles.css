@@ -20,3 +20,11 @@
 .product-btn{
     font-size: small;
 }
+.fa-heart{
+    color: brown;
+    cursor: pointer;
+}
+.guest-form-card h2{
+    text-transform: uppercase;
+    font-size: medium;
+}
